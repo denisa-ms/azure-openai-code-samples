@@ -77,6 +77,12 @@ GPT4o_DEPLOYMENT_NAME="<your gpt-4o deployment name>"
 GPT4o_DEPLOYMENT_ENDPOINT="<your azure openai deployment url>"
 GPT4o_API_KEY="<the key to the azure open ai service>"
 
+# Video indexer
+VIDEOINDEXER_ACCTID='your video indexer account id here'
+VIDEOINDEXER_ACCTNAME='your video indexer account name here'
+VIDEOINDEXER_RESOURCEGROUP='your video indexer resource group here'
+VIDEOINDEXER_SUBSCRIPTIONID='your subscription id here'
+
 # SQL Server details
 SQL_USER="SqlAdmin"
 SQL_DBNAME="aworks"
