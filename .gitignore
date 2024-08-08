@@ -5,6 +5,10 @@
 launch.json
 GraphRag with ADX/
 Phi-3/
+Hybrid RAG with Azure Data Explorer/download/docs/
+Hybrid RAG with Azure Data Explorer/data/*.*
+Hybrid RAG with Azure Data Explorer/data/processed/embeddings.csv
+Hybrid RAG with Azure Data Explorer/data/processed/entities.csv
 
 # User-specific files
 *.rsuser
