@@ -1,7 +1,12 @@
-# Useful links  
 
-## Operationalize AI Responsibly  
+## Useful Links
+- [Azure AI code samples](https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-cognitive-search%2Cai-services&languages=python)  
+- [Azure AI Templates with Azure Developer CLI (2024)](https://learn.microsoft.com/en-gb/collections/5pq0uompdgje8d)  
+- [Operationalize AI responsibly with Azure AI Studio](https://www.youtube.com/watch?v=FHeVBfqelts)  
+- [Code-First LLMOps from prototype to production with GenAI tools](https://www.youtube.com/watch?v=gvqsPhd27LE)  
+- [RAG experiment accelerator](https://github.com/microsoft/rag-experiment-accelerator)
 
+## Operationalize GenAI apps responsibly  
 ### Governance  
     Establish policies, practices, and processes that align with Microsoft's Responsible AI Standard. It includes embedding AI principles into the development lifecycle and workflows to comply with laws and regulations across privacy, security, and responsible AI.  
 - [Microsoft Responsible AI Standard, v2](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf)
