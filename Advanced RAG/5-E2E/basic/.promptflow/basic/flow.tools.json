@@ -1,0 +1,15 @@
+{
+  "package": {},
+  "code": {
+    "basic.prompty": {
+      "type": "llm",
+      "inputs": {
+        "question": {
+          "type": [
+            "string"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -7,9 +7,8 @@ model:
   api: chat
   configuration:
     type: azure_openai
-    azure_endpoint: <your azure openai endpoint>
-    azure_deployment: <your azure openai deployment>
-    api_key : <your azure openai api key>
+    azure_endpoint: ${env:AZURE_OPENAI_ENDPOINT}
+    azure_deployment: gpt-4
   parameters:
     max_tokens: 3000
 sample:
