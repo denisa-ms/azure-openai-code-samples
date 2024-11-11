@@ -32,8 +32,9 @@ KUSTO_MANAGED_IDENTITY_SECRET = "<Managed identity app secret ID>"
 
 ## Create and ingest the embeddings into the Vector DB (Azure Data Explorer)
 
-The first step to create a RAG pattern is the embedding generation of the content.  
-In order to do that you need to run the notebook [RAG - Fabric RTA - create embeddings](./RAG%20-%20Fabric%20RTA%20-%20create%20embeddings.ipynb).  
+
+The first step to create a RAG pattern is the generation of the embeddings for the content. 
+In order to do that you need to run the notebook [RAG - Azure Data Explorer - create embeddings](./RAG%20-%20Azure%20Data%20Explorer%20-%20create%20embeddings.ipynb).  
 YOU SHOULD RUN THIS NOTEBOOK ONLY ONCE.  
 
 After running the notebook you should have more than 1K entries in the embeddingscsv table as follows
@@ -41,7 +42,7 @@ After running the notebook you should have more than 1K entries in the embedding
 
 ## Test the vector search
 
-Run the [RAG - Fabric RTA - search your data](./RAG%20-%20Fabric%20RTA%20-%20search%20your%20data.ipynb) notebook
+Run the [RAG - Azure Data Explorer - search your data](./RAG%20-%20Azure%20Data%20Explorer%20-%20search%20your%20data.ipynb) notebook
 
 
 
